@@ -1,0 +1,7 @@
+{
+    "name": "Sensio",
+    "country": "NO",
+    "domains": ["light"],
+    "homeassistant": "core-2021.3.4",
+    "render_readme": true
+}
