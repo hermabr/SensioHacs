@@ -1,0 +1,1 @@
+"""The Sensio App integration."""
